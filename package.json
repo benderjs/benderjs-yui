@@ -1,5 +1,5 @@
 {
-  "name": "bender-yui",
+  "name": "benderjs-yui",
   "version": "0.0.1",
   "description": "YUI test runner for Bender.js",
   "main": "lib/index.js",
