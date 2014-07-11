@@ -1,9 +1,9 @@
 {
-  "name": "benderjs-yui",
-  "version": "0.0.1",
-  "description": "YUI test runner for Bender.js",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+	"name": "benderjs-yui",
+	"version": "0.1.0",
+	"description": "YUI test runner for Bender.js",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
 }
