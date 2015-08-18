@@ -1,6 +1,6 @@
 {
 	"name": "benderjs-yui",
-	"version": "0.2.4",
+	"version": "0.2.5",
 	"description": "Adapter for YUI3 testing framework for Bender.js",
 	"keywords": [
 		"bender",
