@@ -80,7 +80,6 @@ Some of `YUI` namespaces were exposed in `bender` namespace, at the moment you c
 
 Features
 --------
-- regressions handling
 - single test execution
 - nested test suites
 
