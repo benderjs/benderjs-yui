@@ -29,7 +29,6 @@
     "jshint": "^2.5.3"
   },
   "dependencies": {
-    "diff": "^3.0.0",
-    "js-beautify": "^1.6.4"
+    "diff": "^3.0.0"
   }
 }
