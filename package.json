@@ -1,34 +1,34 @@
 {
-  "name": "benderjs-yui",
-  "version": "0.3.3",
-  "description": "Adapter for YUI3 testing framework for Bender.js",
-  "keywords": [
-    "bender",
-    "benderjs",
-    "adapter",
-    "yui3",
-    "yui",
-    "unit",
-    "test"
-  ],
-  "author": "CKSource (http://cksource.com/)",
-  "license": "MIT",
-  "main": "lib/index.js",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/benderjs/benderjs-yui.git"
-  },
-  "bugs": {
-    "url": "https://github.com/benderjs/benderjs-yui/issues"
-  },
-  "scripts": {
-    "lint": "jscs . && jshint lib/"
-  },
-  "devDependencies": {
-    "jscs": "^1.5.9",
-    "jshint": "^2.5.3"
-  },
-  "dependencies": {
-    "diff": "^3.0.0"
-  }
+	"name": "benderjs-yui",
+	"version": "0.3.3",
+	"description": "Adapter for YUI3 testing framework for Bender.js",
+	"keywords": [
+		"bender",
+		"benderjs",
+		"adapter",
+		"yui3",
+		"yui",
+		"unit",
+		"test"
+	],
+	"author": "CKSource (http://cksource.com/)",
+	"license": "MIT",
+	"main": "lib/index.js",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/benderjs/benderjs-yui.git"
+	},
+	"bugs": {
+		"url": "https://github.com/benderjs/benderjs-yui/issues"
+	},
+	"scripts": {
+		"lint": "jscs . && jshint lib/"
+	},
+	"devDependencies": {
+		"jscs": "^1.5.9",
+		"jshint": "^2.5.3"
+	},
+	"dependencies": {
+		"diff": "^3.0.0"
+	}
 }
