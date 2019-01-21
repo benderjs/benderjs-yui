@@ -27,5 +27,8 @@
 	"devDependencies": {
 		"jscs": "^1.5.9",
 		"jshint": "^2.5.3"
+	},
+	"dependencies": {
+		"diff": "^3.0.0"
 	}
 }
